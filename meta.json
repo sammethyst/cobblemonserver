@@ -5,19 +5,42 @@
   "versions": [
     {
       "id": "4.0",
-      "releasedAt": 987654321098765
+      "releasedAt": 987654321098765,
+      "promotions": {
+            "downloads": {
+                "modrinth": "https://drive.proton.me/urls/ZVJQMVGBD8#uQHabAUEWqpD",
+                "generic": "https://drive.proton.me/urls/WZSR81776R#VFxu6CPM8mJT"
+            }
+        }
     },
     {
       "id": "5.0",
-      "releasedAt": 987654321098765
+      "releasedAt": 987654321098765,
+      "promotions": {
+            "downloads": {
+                "modrinth": "https://drive.proton.me/urls/G3AGV2EKTG#LyPQC5waFgZH",
+                "generic": "https://drive.proton.me/urls/F9GMQYYEWW#jeTMzL8Ti239"
+            }
+        }
     },
     {
       "id": "6.0",
-      "releasedAt": 987654321098765
+      "releasedAt": 987654321098765,
+      "promotions": {
+            "downloads": {
+                "modrinth": "https://drive.proton.me/urls/X8JHKYMHYG#fAutiB0ELnxH",
+                "generic": "https://drive.proton.me/urls/15H3KE8T10#c3z2bbDAS36C"
+            }
+        }
     },
     {
       "id": "6.0.1",
-      "releasedAt": 987654321098765
+      "releasedAt": 987654321098765,
+      "promotions": {
+            "downloads": {
+                "modrinth": "https://drive.proton.me/urls/6AS14G79DG#PDRS5IJoulWR"
+            }
+        }
     }
   ]
 }
