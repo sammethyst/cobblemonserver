@@ -1,0 +1,10 @@
+* Added modpack update check system
+* Updates to the following mods: Cobblemon Spawn Notifications, Cobbleloots, Mega Showdown, Ride On, Cobblenav, Emojiful, Exposure, More Cobblemon Move Animations, Shoulder Surfing, SimpleTMs, Supplementaries, and Waystones
+* Added block placement animations
+* Added Dark Paintings
+* Added Macaw's Lights and Lamps
+* Added Macaw's Paths and Pavings
+* Added Create: Misc and Things
+
+* Networking improvements
+* Cleaned configs folder

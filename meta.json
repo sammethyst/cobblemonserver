@@ -41,6 +41,10 @@
                 "modrinth": "https://drive.proton.me/urls/6AS14G79DG#PDRS5IJoulWR"
             }
         }
-    }
+    },
+    {
+      "id": "7.0",
+      "releasedAt": 987654321098765
+    },
   ]
 }
