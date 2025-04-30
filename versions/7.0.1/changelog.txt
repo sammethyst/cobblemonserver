@@ -1,0 +1,1 @@
+fixed prism install crashing when opening the box

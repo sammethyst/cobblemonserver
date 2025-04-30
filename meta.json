@@ -4,7 +4,7 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "4",
+      "id": "4.0",
       "releasedAt": 987654321098765,
       "promotions": {
             "downloads": {
@@ -14,7 +14,7 @@
         }
     },
     {
-      "id": "5",
+      "id": "5.0",
       "releasedAt": 987654321098765,
       "promotions": {
             "downloads": {
@@ -24,7 +24,7 @@
         }
     },
     {
-      "id": "6",
+      "id": "6.0",
       "releasedAt": 987654321098765,
       "promotions": {
             "downloads": {
@@ -43,12 +43,22 @@
         }
     },
     {
-      "id": "7",
+      "id": "7.0",
       "releasedAt": 1745909381,
       "promotions": {
             "downloads": {
                 "modrinth": "https://drive.proton.me/urls/MZF87RZH34#rIAbKgbUIqpP",
                 "generic": "https://drive.proton.me/urls/M1Y1HGY22R#1ESOgB4l6ytP"
+            }
+        }
+    },
+     {
+      "id": "7.0.1",
+      "releasedAt": 1745909381,
+      "promotions": {
+            "downloads": {
+                "modrinth": "https://drive.proton.me/urls/MZF87RZH34#rIAbKgbUIqpP",
+                "generic": "https://drive.proton.me/urls/T7SF0AM20R#OQfheJbCBVRh"
             }
         }
     }
